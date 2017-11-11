@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "489509149360",
+    "firebase_url": "https://exbancodadosnosql.firebaseio.com",
+    "project_id": "exbancodadosnosql",
+    "storage_bucket": "exbancodadosnosql.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489509149360:android:c194fccd95aa9682",
+        "android_client_info": {
+          "package_name": "tdc.palestra.com.tdcpoafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489509149360-180foflvhdif1nh02bfonts0s18c9o52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5xLhYQQXN9RUuAUNcaQ71Ddr0HQTDvR8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
